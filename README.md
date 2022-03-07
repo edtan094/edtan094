@@ -30,4 +30,3 @@ Hi, my name is Edwin and I am a web developer fresh out of an accelerated learni
 
 ## Lets Connect! 📬
 * [LinkedIn](https://www.linkedin.com/in/etan094/)
-* 
