@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * 🔨 Tools - NPM, Babel, Webpack, Git, GitHub, Slack, VS Code, Postman
 
 ## About Me ✍️
-Hi, my name is Edwin and I am a web developer fresh out of an accelerated learning program for full stack web development.  Before I started my web development journey, I worked for a compliance company as a client services specialist, and before that I worked in hotel management in Las Vegas as a Concierge.  Please feel free to reach out to me if you have any questions about my work, journey, or anything development related!
+Hi, my name is Edwin and I am a web developer fresh out of an accelerated learning program for full stack web development.  Before I started my web development journey, I worked for a compliance company as a client services specialist, and before that I worked in hotel management in Las Vegas as a Concierge.  The reason why I started web development is because I enjoy the challenge in creating something that people can enjoy using.  Please feel free to reach out to me if you have any questions about my work, journey, or anything development related!
 
 🤩 Hobbies 🤩
 * 🏄‍♂️ Surfing
