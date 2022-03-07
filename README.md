@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * 🔨 Tools - NPM, Babel, Webpack, Git, GitHub, Slack, VS Code, Postman
 * 📝 Always open to learning more!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edtan094)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edtan094&hide=contribs,stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## About Me ✍️
 Hi, my name is Edwin and I am a web developer fresh out of an accelerated learning program for full stack web development.  Before I started my web development journey, I worked for a compliance company as a client services specialist, and before that I worked in hotel management in Las Vegas as a Concierge.  The reason why I started web development is because I enjoy the challenge in creating something that people can use.  Please feel free to reach out to me if you have any questions about my work, journey, or anything development related!
 
