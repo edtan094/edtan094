@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 💻 currently working on stretch features for my project [nomnom](https://github.com/edtan094/nomnom) and looking for job opportunities!
+* 💻 Currently working on stretch features for my project [nomnom](https://github.com/edtan094/nomnom) and looking for job opportunities!
 * 📚 Stacks - JavaScript, React, Node.js, HTML, CSS, PostgreSQL, Express
 * 🔨 Tools - NPM, Babel, Webpack, Git, GitHub, Slack, VS Code, Postman
 
