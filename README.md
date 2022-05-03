@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * 💻 Currently learning more about React, TypeScript, and SASS!
 * 📚 Stacks - JavaScript, TypeScript, React, Node.js, HTML, CSS, , SASS, PostgreSQL, Express
-* 🔨 Tools - NPM, Babel, Webpack, Git, GitHub, Slack, VS Code, Postman
+* 🔨 Tools - npm, Babel, Webpack, Git, GitHub, Slack, VS Code, Postman
 * 📝 Always open to learning more!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edtan094&hide=contribs,stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
