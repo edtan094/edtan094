@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 * 💻 Currently learning more about React, TypeScript, and SASS!
-* 📚 Stacks - JavaScript, TypeScript, React, Node.js, HTML, CSS, , SASS, PostgreSQL, Express
+* 📚 Stacks - JavaScript, TypeScript, React, Node.js, HTML, CSS, SASS, PostgreSQL, Express
 * 🔨 Tools - npm, Babel, Webpack, Git, GitHub, Slack, VS Code, Postman
 * 📝 Always open to learning more!
 
