@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 📚 Stacks - JavaScript, TypeScript, React, Node.js, HTML, CSS, SASS, PostgreSQL, Express
-* 🔨 Tools - npm, Babel, Webpack, Git, GitHub, Slack, VS Code, Postman
+* 📚 Stacks - JavaScript, TypeScript, React, Node.js, HTML, CSS, PostgreSQL, Express.js, Cypress
+* 🔨 Tools - npm, yarn, Babel, Webpack, Git, GitHub, VS Code, Postman
 * 📝 Always open to learning more!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edtan094&hide=contribs,stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
