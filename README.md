@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 * 🔨 Tools - npm, yarn, Babel, Webpack, Git, GitHub, VS Code, Postman
 * 📝 Always open to learning more!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edtan094&hide=contribs,stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## About Me ✍️
 Hi, my name is Edwin and I am currently a Front-End Developer at Applied Medical.
 
