@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 * 📚 Stacks - JavaScript, TypeScript, React, Node.js, HTML, CSS, PostgreSQL, Express.js, Cypress
-* 🔨 Tools - npm, yarn, Babel, Webpack, Git, GitHub, VS Code, Postman
+* 🔨 Tools - npm, yarn, Babel, Webpack, Git, GitHub, VS Code, Postman, Bun
 * 📝 Always open to learning more!
 
 ## About Me ✍️
